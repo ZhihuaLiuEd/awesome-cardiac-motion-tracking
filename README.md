@@ -23,13 +23,21 @@ Feel free to fork 🍴, and comment 🗨️!
   Bidirectional Recurrence for Cardiac Motion Tracking with Gaussian Process Latent Coding  
   [`PDF`](https://arxiv.org/abs/2410.20752) | [`Code`](https://github.com/xmed-lab/GPTrack)
 
+- **[EchoTracker]** — *MICCAI, 2024*  
+  EchoTracker: Advancing Myocardial Point Tracking in Echocardiography  
+  [`PDF`](https://arxiv.org/abs/2405.08587) | [`Code`](https://github.com/riponazad/echotracker)
+
 - **[DeepMesh]** — *IEEE TMI, 2023*  
   DeepMesh: Mesh-based Cardiac Motion Tracking using Deep Learning  
   [`PDF`](https://arxiv.org/abs/2309.14306) | [`Code`](https://github.com/qmeng99/DeepMesh)
 
-- **[Qin et al.]** — *Medical Image Analysis, 2023*  
+- **[Qin et al.]** — *MedIA, 2023*  
   Generative Myocardial Motion Tracking via Latent Space Exploration with Biomechanics-informed Prior  
   [`PDF`](https://www.sciencedirect.com/science/article/pii/S1361841522003103) | [`Code`](https://github.com/cq615/BIGM-motion-tracking)
+
+- **[PWC-Net]** — *IEEE TMI, 2022*  
+  Motion Estimation by Deep Learning in 2D Echocardiography: Synthetic Dataset and Validation  
+  [`PDF`](https://ieeexplore.ieee.org/abstract/document/9713885)
 
 - **[Meng et al.]** — *MICCAI, 2022*  
   Mesh-based 3D Motion Tracking in Cardiac MRI using Deep Learning  
@@ -43,5 +51,22 @@ Feel free to fork 🍴, and comment 🗨️!
   DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images  
   [`PDF`](https://arxiv.org/abs/2103.02772) | [`Code`](https://github.com/DeepTag/cardiac_tagging_motion_estimation)
 
+- **[4Dsurvival]** — *Nature Machine Intelligence, 2019*  
+  Deep-learning Cardiac Motion Analysis for Human Survival Prediction  
+  [`PDF`](https://www.nature.com/articles/s42256-019-0019-2) | [`Code`](https://github.com/UK-Digital-Heart-Project/4Dsurvival)
+
+### 💎 Some Oldies but Goldies
+
+- **[Alessandrini et al.]** — *IEEE TMI, 2016*  
+  Detailed Evaluation of Five 3D Speckle Tracking Algorithms Using Synthetic Echocardiographic Recordings  
+  [`PDF`](https://ieeexplore.ieee.org/document/7425261)
+
+- **[Schaerer et al.]** — *MedIA, 2010*  
+  A Dynamic Elastic Model for Segmentation and Tracking of the Heart in MR Image Sequences  
+  [`PDF`](https://www.sciencedirect.com/science/article/pii/S1361841510000629)
+
+- **[Rueckert et al.]** — *IEEE TMI, 1999*  
+  Nonrigid Registration using Free-form Deformations: Application to Breast MR Images  
+  [`PDF`](https://www.sciencedirect.com/science/article/pii/S1361841510000629) | [`Code`](https://github.com/BioMedIA/IRTK)
 
 To-be updated soon
